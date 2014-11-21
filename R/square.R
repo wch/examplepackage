@@ -7,7 +7,7 @@ square <- function(x) {
 powr <- function(x, y) {
   # This is a terrible, super slow algorithm
   val <- 1
-  while (y > 1) {
+  while (y > 0) {
     val <- val*x
     y <- y-1
   }
