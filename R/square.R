@@ -2,6 +2,8 @@
 #'
 #' This function takes a number and returns the square of that number.
 #'
+#' Here's some more help about square.
+#'
 #' @param x A number to square
 #' @examples
 #' square(1:10)

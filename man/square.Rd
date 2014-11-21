@@ -11,6 +11,9 @@ square(x)
 \description{
 This function takes a number and returns the square of that number.
 }
+\details{
+Here's some more help about square.
+}
 \examples{
 square(1:10)
 }
