@@ -1,3 +1,11 @@
+#' Square a number
+#'
+#' This function takes a number and returns the square of that number.
+#'
+#' @param x A number to square
+#' @examples
+#' square(1:10)
+#'
 #' @export
 square <- function(x) {
   powr(x, 2)
